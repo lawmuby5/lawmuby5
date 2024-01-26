@@ -1,6 +1,6 @@
 Hi there 👋
 ✨A blend of Data Analysis and Science📊
-👯 I’m looking to collaborate n projects and businesses
+👯 I’m looking to collaborate on projects and businesses
 ⚡ Fun fact: 🎵🎮💻📊
 <!--
 **lawmuby5/lawmuby5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
